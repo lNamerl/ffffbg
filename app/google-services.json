@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150805261896",
+    "project_id": "ssaa-fdc00",
+    "storage_bucket": "ssaa-fdc00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150805261896:android:44822e6d3e43e52671b27d",
+        "android_client_info": {
+          "package_name": "com.itcube.passer2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150805261896-b9jano13mk1bfoo8mecme7oiisjiooaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0-K3_aKkfnoAdqWH-2r8fN13qkHcxbsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150805261896-b9jano13mk1bfoo8mecme7oiisjiooaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
